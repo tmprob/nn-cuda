@@ -9,7 +9,7 @@ This template is build with a [Makefile](Makefile). To build first create a buil
 mkdir build && make
 ```
 
-Note: the program compile showing two warnings, this is due to the currently partially missing implememntation of the CUDA gradiendescent.cu function. The code compile and can run the serial version anyway
+Note: the program compile showing two warnings, this is due to the currently partially missing implememntation of the CUDA gradiendescent.cu function.. The code compile and can run the serial version anyway
 
 Source code is located in the [source](source/) folder.
 
