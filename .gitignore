@@ -1,0 +1,7 @@
+main
+build/
+.vscode/
+*.exe
+venv/
+.venv/
+html/
